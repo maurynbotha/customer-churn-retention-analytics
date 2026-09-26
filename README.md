@@ -10,7 +10,7 @@ The project combines customer demographics, subscription behavior, product usage
 
 ## Dashboard Preview
 
-![Executive Overview](./screenshots/01_executive_overview.png)
+![Executive Overview](https://github.com/maurynbotha/customer-churn-retention-analytics/blob/main/screenshots/customer_churn_dashboard_screenshots/01_executive_overview.png)
 
 ---
 
