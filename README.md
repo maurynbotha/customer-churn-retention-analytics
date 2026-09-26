@@ -10,7 +10,7 @@ The project combines customer demographics, subscription behavior, product usage
 
 ## Dashboard Preview
 
-![Executive Overview](screenshots/01_executive_overview.png)
+![Executive Overview](./screenshots/01_executive_overview.png)
 
 ---
 
@@ -236,37 +236,37 @@ The Power BI report contains six pages.
 
 ### 1. Executive Overview
 
-![Executive Overview](screenshots/01_executive_overview.png)
+![Executive Overview](./screenshots/01_executive_overview.png)
 
 Provides an executive summary of customer volume, churn, retention, revenue, churn reasons, subscription-plan performance, and active-customer risk distribution.
 
 ### 2. Churn Drivers & Segmentation
 
-![Churn Drivers & Segmentation](screenshots/02_churn_drivers_segmentation.png)
+![Churn Drivers & Segmentation](./screenshots/02_churn_drivers_segmentation.png)
 
 Examines churn across acquisition channels, customer segments, contract types, payment behavior, and changes in customer engagement.
 
 ### 3. Predictive Churn & Risk
 
-![Predictive Churn & Risk](screenshots/03_predictive_churn_risk.png)
+![Predictive Churn & Risk](./screenshots/03_predictive_churn_risk.png)
 
 Uses calibrated machine-learning probabilities to segment active customers into Low, Medium, High, and Critical churn-risk groups and creates a prioritized retention list.
 
 ### 4. Customer Experience & Support
 
-![Customer Experience & Support](screenshots/04_customer_experience_support.png)
+![Customer Experience & Support](./screenshots/04_customer_experience_support.png)
 
 Analyzes support volume, high-priority cases, unresolved tickets, resolution time, satisfaction, and repeat contacts across churn-risk bands.
 
 ### 5. Revenue & Retention Value
 
-![Revenue & Retention Value](screenshots/05_revenue_retention_value.png)
+![Revenue & Retention Value](./screenshots/05_revenue_retention_value.png)
 
 Quantifies current monthly revenue, churn-related revenue loss, revenue at risk, customer value, and financial exposure across subscription plans and customer segments.
 
 ### 6. Model Performance & Explainability
 
-![Model Performance & Explainability](screenshots/06_model_performance_explainability.png)
+![Model Performance & Explainability](./screenshots/06_model_performance_explainability.png)
 
 Compares machine-learning models, presents final-model evaluation metrics and confusion matrix results, and identifies the strongest predictive features.
 
